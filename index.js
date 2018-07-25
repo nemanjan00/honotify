@@ -17,5 +17,5 @@ const server = net.createServer((socket) => {
 	spawn("notify-send", ["--icon", "/usr/share/icons/Adwaita/64x64/status/dialog-warning-symbolic.symbolic.png", "Honotify", "You are being scanned by " + address]);
 });
 
-server.listen(5900, '127.0.0.1');
+server.listen(5900, '0.0.0.0');
 
