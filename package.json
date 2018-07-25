@@ -1,6 +1,6 @@
 {
   "name": "honotify",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Honotify is a simple app that shows you a notification using libnotify when someone is scanning your ports, by listening on user specified port. ",
   "main": "index.js",
   "repository": "git@github.com:nemanjan00/honotify.git",
