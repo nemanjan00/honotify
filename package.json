@@ -8,5 +8,8 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^1.18.3"
+  },
+  "bin": {
+    "honotify": "./bin/honotify"
   }
 }
